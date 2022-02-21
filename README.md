@@ -3,4 +3,4 @@ Integrating Multiple Availability Zones for a spring Microservice and using Load
 
 
 
-![](image.png)
+![](https://github.com/wambugucoder/SPRING-CLOUD-MULTI_AZ-WITH-LOAD-BALANCER-HEALTH-CHECK/blob/main/images/MultiAz.PNG)
